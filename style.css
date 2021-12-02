@@ -90,6 +90,15 @@ h3 {
         justify-content: center;
         align-items: center;
     }
+    .btn {
+        width: 60%;
+        margin: 0 auto;
+    }
+
+
+    .btn-check {
+        margin-bottom: 20px;
+    }
 }
 
 
